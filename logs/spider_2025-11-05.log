@@ -1,0 +1,17 @@
+2025-11-05 16:26:35.828 | ERROR    | __main__:fetch_post:48 - Failed: http://www.cnhm.com - name 'random' is not defined
+2025-11-05 16:26:53.313 | ERROR    | __main__:fetch_post:48 - Failed: http://www.zhihu.com - name 'random' is not defined
+2025-11-05 16:27:05.937 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-05 16:27:05.938 | ERROR    | __main__:fetch_get:35 - Failed: https://www.zhihu.com - name 'random' is not defined
+2025-11-05 16:27:05.938 | WARNING  | utils.retry:<lambda>:11 - 重试后成功
+2025-11-05 16:27:07.949 | INFO     | utils.retry:<lambda>:10 - 尝试第 2 次
+2025-11-05 16:27:07.949 | ERROR    | __main__:fetch_get:35 - Failed: https://www.zhihu.com - name 'random' is not defined
+2025-11-05 16:27:07.950 | WARNING  | utils.retry:<lambda>:11 - 重试后成功
+2025-11-05 16:27:09.963 | INFO     | utils.retry:<lambda>:10 - 尝试第 3 次
+2025-11-05 16:27:09.964 | ERROR    | __main__:fetch_get:35 - Failed: https://www.zhihu.com - name 'random' is not defined
+2025-11-05 16:27:09.964 | WARNING  | utils.retry:<lambda>:11 - 重试后成功
+2025-11-05 16:27:45.788 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-05 16:27:47.621 | INFO     | __main__:fetch_get:30 - GET: https://www.zhihu.com
+2025-11-05 16:27:48.009 | SUCCESS  | __main__:fetch_get:33 - Success: https://www.zhihu.com
+2025-11-05 16:28:13.695 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-05 16:28:14.461 | INFO     | __main__:fetch_get:30 - GET: https://www.zhihu.com
+2025-11-05 16:28:14.734 | SUCCESS  | __main__:fetch_get:33 - Success: https://www.zhihu.com

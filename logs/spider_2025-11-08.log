@@ -1,0 +1,9 @@
+2025-11-08 11:51:03.618 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-08 11:51:04.153 | INFO     | __main__:fetch_get:30 - GET: https://www.zhihu.com
+2025-11-08 11:51:04.455 | SUCCESS  | __main__:fetch_get:33 - Success: https://www.zhihu.com
+2025-11-08 11:51:39.808 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-08 11:51:40.787 | INFO     | __main__:fetch_get:30 - GET: https://www.zhihu.com
+2025-11-08 11:51:41.115 | SUCCESS  | __main__:fetch_get:33 - Success: https://www.zhihu.com
+2025-11-08 14:07:06.755 | INFO     | utils.retry:<lambda>:10 - 尝试第 1 次
+2025-11-08 14:07:08.242 | INFO     | __main__:fetch_get:73 - GET: https://www.zhihu.com
+2025-11-08 14:07:09.222 | SUCCESS  | __main__:fetch_get:76 - Success: https://www.zhihu.com
