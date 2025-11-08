@@ -25,17 +25,17 @@
         "path": "/",
         "sameSite": "Lax",
         "secure": false,
-        "value": "1762582023"
+        "value": "1762587495"
     },
     {
         "domain": ".zhihu.com",
-        "expiry": 1794118023,
+        "expiry": 1794123494,
         "httpOnly": false,
         "name": "Hm_lvt_98beee57fd2ef70ccdd5ca52b9740c49",
         "path": "/",
         "sameSite": "Lax",
         "secure": false,
-        "value": "1762576418,1762576852,1762576942,1762582023"
+        "value": "1762586847,1762586958,1762587123,1762587495"
     },
     {
         "domain": "www.zhihu.com",
@@ -49,13 +49,13 @@
     },
     {
         "domain": "www.zhihu.com",
-        "expiry": 1762585622,
+        "expiry": 1762591094,
         "httpOnly": false,
         "name": "BEC",
         "path": "/",
         "sameSite": "Lax",
         "secure": false,
-        "value": "738c6d0432e7aaf738ea36855cdce904"
+        "value": "b7b0f394f3fd074c6bdd2ebbdd598b4e"
     },
     {
         "domain": ".zhihu.com",
@@ -64,7 +64,7 @@
         "path": "/",
         "sameSite": "Lax",
         "secure": false,
-        "value": "3efce40c-6b5c-4a5a-ba2a-83b9c08efb17"
+        "value": "f5f40bb9-1243-4c24-86db-f5673c8a3030"
     },
     {
         "domain": ".zhihu.com",

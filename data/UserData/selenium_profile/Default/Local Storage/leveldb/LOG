@@ -1,5 +1,5 @@
-2025/11/08-14:07:00.676 4f78 Reusing MANIFEST D:\Wrok\ScriptProjects\ArticleMakerAgent\data\UserData\selenium_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/08-14:07:00.681 4f78 Recovering log #11
-2025/11/08-14:07:00.681 4f78 Level-0 table #13: started
-2025/11/08-14:07:00.687 4f78 Level-0 table #13: 36622 bytes OK
-2025/11/08-14:07:00.693 4f78 Delete type=0 #11
+2025/11/08-15:38:12.305 6644 Reusing MANIFEST D:\Wrok\ScriptProjects\ArticleMakerAgent\data\UserData\selenium_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/08-15:38:12.309 6644 Recovering log #50
+2025/11/08-15:38:12.310 6644 Level-0 table #52: started
+2025/11/08-15:38:12.315 6644 Level-0 table #52: 25191 bytes OK
+2025/11/08-15:38:12.320 6644 Delete type=0 #50
